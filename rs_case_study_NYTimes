@@ -1,0 +1,153 @@
+Case study: 'The News York Times'
+
+- Number of ad: 430 subscription ads + 374 article ads
+- Number of users: 98 users
+- Number of unique categories: 120
+------------------------------------------------------------------------
+Top popular categories:
+ ('Health & Fitness', 207),
+ ('Law, Gov’t & Politics', 186),
+ ('Science', 133),
+ ('Arts & Entertainment', 94),
+ ('Food & Drink', 88),
+ ('Technology & Computing', 87),
+ ('Education', 33),
+ ('News', 31),
+ ('Society', 21),
+ ('Family & Parenting', 20),
+ ('Non-Standard Content', 19),
+ ('Sports', 14),
+ ('Travel', 14),
+ ('Hobbies & Interests', 14),
+ ('Business', 12),
+ ('Pets', 11),
+ ('Religion & Spirituality', 11),
+ ('Style & Fashion', 7),
+ ('Real Estate', 6),
+ ('Careers', 3),
+ ('Personal Finance', 2),
+ ('Home & Garden', 1)
+ ------------------------------------------------------------------------
+ Tier-2 Categories of 'Health & Fitness' aggregate by users:
+ ('Health & Fitness>Psychology/Psychiatry', 16),
+ ('Health & Fitness>Exercise', 10),
+ ('Health & Fitness>Nutrition', 7),
+ ('Health & Fitness>Diabetes', 5),
+ ('Health & Fitness>Sexuality', 5),
+ ('Health & Fitness>Panic/Anxiety Disorders', 4),
+ ('Health & Fitness>Depression', 4),
+ ('Health & Fitness>Arthritis', 3),
+ ('Health & Fitness>Pediatrics', 2),
+ ('Health & Fitness>Cholesterol', 2),
+ ('Health & Fitness>Brain Tumor', 2),
+ ('Health & Fitness>Infertility', 2),
+ ('Health & Fitness>Asthma', 1),
+ ('Health & Fitness>Heart Disease', 1),
+ ('Health & Fitness>Dermatology', 1),
+ ('Health & Fitness>Cancer', 1),
+ ('Health & Fitness>Chronic Fatigue Syndrome', 1),
+ ('Health & Fitness>Orthopedics', 1),
+ ("Health & Fitness>IBS/Crohn\\'s Disease", 1)]
+ 
+ ------------------------------------------------------------------------
+ 
+ Full list of Categories of each user:
+ User 0 - 157 ads
+[('ERROR:Subscription', 47), ('Health & Fitness', 15), ('Science', 15), ('Law, Gov’t & Politics', 13), ('Law, Gov’t & Politics>Politics', 10), ('Health & Fitness>Psychology/Psychiatry', 9), ('Technology & Computing', 8), ('Food & Drink', 6), ('Health & Fitness>Nutrition', 5), ('Health & Fitness>Exercise', 4), ('Food & Drink>Desserts & Baking', 4), ('Non-Standard Content>Under Construction', 3), ('Health & Fitness>Depression', 3), ('Science>Biology', 3), ('News', 3), ('Arts & Entertainment', 3), ('Health & Fitness>Diabetes', 3), ('Food & Drink>American Cuisine', 2), ('Arts & Entertainment>Television', 2), ('Business>Government', 2), ('Arts & Entertainment>Humor', 2), ('Health & Fitness>Cholesterol', 2), ('Technology & Computing>Palmtops/PDAs', 2), ('Arts & Entertainment>Books & Literature', 2), ('Science>Weather', 2), ('Arts & Entertainment>Music', 2), ('Travel', 2), ('Education', 2), ('Health & Fitness>Panic/Anxiety Disorders', 1), ('Travel>Hotels', 1), ('Hobbies & Interests>Cigars', 1), ('Food & Drink>Dining Out', 1), ('Technology & Computing>Cameras & Camcorders', 1), ('Law, Gov’t & Politics>Legal Issues', 1), ('Real Estate>Apartments', 1), ('Travel>Air Travel', 1), ('Science>Paranormal Phenomena', 1), ('Food & Drink>Vegetarian', 1), ('Non-Standard Content>Hate Content', 1), ('Arts & Entertainment>Movies', 1), ('Real Estate', 1), ('Science>Physics', 1), ('Technology & Computing>Internet Technology', 1), ('Technology & Computing>Portable', 1), ('Society', 1), ('Health & Fitness>Sexuality', 1), ('Law, Gov’t & Politics>Immigration', 1), ('Business', 1), ('Society>Marriage', 1)]
+-----------------------------------------
+User 1 - 109 ads
+[('ERROR:Subscription', 36), ('Science', 21), ('Health & Fitness', 12), ('Health & Fitness>Psychology/Psychiatry', 9), ('Education', 8), ('Law, Gov’t & Politics', 7), ('Health & Fitness>Exercise', 6), ('Law, Gov’t & Politics>Politics', 6), ('Science>Biology', 5), ('Food & Drink', 5), ('Food & Drink>Desserts & Baking', 4), ('Health & Fitness>Nutrition', 3), ('Technology & Computing', 3), ('Food & Drink>Cocktails/Beer', 2), ('Non-Standard Content>Under Construction', 2), ('Food & Drink>Coffee/Tea', 2), ('Arts & Entertainment>Books & Literature', 2), ('Arts & Entertainment', 2), ('Non-Standard Content>Hate Content', 1), ('Hobbies & Interests>Birdwatching', 1), ('Pets', 1), ('Arts & Entertainment>Humor', 1), ('Food & Drink>American Cuisine', 1), ('Food & Drink>Dining Out', 1), ('Society>Weddings', 1), ('Pets>Birds', 1), ('Science>Geography', 1), ('Arts & Entertainment>Television', 1), ('Law, Gov’t & Politics>Immigration', 1), ('Arts & Entertainment>Music', 1), ('Science>Paranormal Phenomena', 1), ('Food & Drink>Vegetarian', 1), ('News', 1), ('Health & Fitness>Depression', 1), ('Arts & Entertainment>Movies', 1), ('Health & Fitness>Panic/Anxiety Disorders', 1), ('Science>Geology', 1), ('Travel', 1), ('Health & Fitness>Diabetes', 1), ('Science>Physics', 1), ('Society>Marriage', 1)]
+-----------------------------------------
+User 2 - 105 ads
+[('ERROR:Subscription', 41), ('Health & Fitness', 16), ('Law, Gov’t & Politics', 14), ('Science', 13), ('Family & Parenting>Babies & Toddlers', 6), ('Law, Gov’t & Politics>Politics', 6), ('Arts & Entertainment>Humor', 5), ('Health & Fitness>Psychology/Psychiatry', 5), ('Health & Fitness>Sexuality', 4), ('Law, Gov’t & Politics>Legal Issues', 4), ('Arts & Entertainment>Television', 4), ('Arts & Entertainment>Movies', 4), ('Family & Parenting>Pregnancy', 3), ('Pets', 2), ('Travel>Cruises', 2), ('Health & Fitness>Exercise', 2), ('Sports', 2), ('News', 2), ('Health & Fitness>Nutrition', 2), ('Science>Physics', 2), ('Pets>Cats', 2), ('Non-Standard Content>Pornography', 2), ('Education', 2), ('Technology & Computing', 2), ('Sports>Cheerleading', 1), ('Food & Drink>Cocktails/Beer', 1), ('Hobbies & Interests>Photography', 1), ('Food & Drink>Dining Out', 1), ('Technology & Computing>Cameras & Camcorders', 1), ('Health & Fitness>Infertility', 1), ('Health & Fitness>Chronic Fatigue Syndrome', 1), ('Science>Geography', 1), ('Health & Fitness>Arthritis', 1), ('Science>Biology', 1), ('Food & Drink>Desserts & Baking', 1), ('Careers', 1), ('Sports>Running/Jogging', 1), ('Food & Drink>American Cuisine', 1), ('Religion & Spirituality>Latter-Day Saints', 1), ('Family & Parenting', 1), ('Arts & Entertainment>Books & Literature', 1), ('Science>Weather', 1), ('Health & Fitness>Asthma', 1), ('Health & Fitness>Diabetes', 1), ('Health & Fitness>Heart Disease', 1), ("Health & Fitness>IBS/Crohn\\'s Disease", 1), ('Food & Drink', 1), ('Science>Space/Astronomy', 1), ('Sports>Football', 1), ('Sports>World Soccer', 1), ('Society>Marriage', 1)]
+-----------------------------------------
+User 3 - 89 ads
+[('Law, Gov’t & Politics', 16), ('News', 14), ('Technology & Computing', 11), ('Technology & Computing>Web Search', 11), ('Technology & Computing>Internet Technology', 11), ('Law, Gov’t & Politics>Politics', 4), ('ERROR:Subscription', 4), ('Business>Advertising', 3), ('Law, Gov’t & Politics>Immigration', 2), ('Law, Gov’t & Politics>Legal Issues', 2), ('Science>Weather', 1), ('Health & Fitness', 1), ('Science', 1), ('Travel', 1)]
+-----------------------------------------
+User 4 - 87 ads
+[('ERROR:Subscription', 54), ('Food & Drink', 5), ('Arts & Entertainment>Television', 5), ('Food & Drink>Desserts & Baking', 4), ('Technology & Computing', 4), ('Food & Drink>American Cuisine', 3), ('Arts & Entertainment>Humor', 3), ('Food & Drink>Vegetarian', 2), ('Arts & Entertainment>Movies', 2), ('Health & Fitness', 2), ('Non-Standard Content>Hate Content', 2), ('Food & Drink>Dining Out', 2), ('Arts & Entertainment>Music', 2), ('News', 2), ('Technology & Computing>Email', 1), ('Pets', 1), ('Food & Drink>Cocktails/Beer', 1), ('Technology & Computing>Internet Technology', 1), ('Sports', 1), ('Technology & Computing>Windows', 1), ('Science', 1), ('Health & Fitness>Nutrition', 1), ('Pets>Cats', 1), ('Law, Gov’t & Politics', 1), ('Science>Physics', 1), ('Food & Drink>Japanese Cuisine', 1), ('Hobbies & Interests>Screenwriting', 1), ('Science>Biology', 1), ('News>National News', 1), ('Pets>Dogs', 1), ('Arts & Entertainment>Books & Literature', 1), ('Technology & Computing>Web Search', 1), ('Health & Fitness>Diabetes', 1), ('Business', 1), ('Law, Gov’t & Politics>Politics', 1), ('Family & Parenting>Babies & Toddlers', 1), ('Society>Marriage', 1)]
+-----------------------------------------
+User 5 - 73 ads
+[('ERROR:Subscription', 43), ('Arts & Entertainment>Television', 2), ('Science', 2), ('Science>Weather', 1), ('Law, Gov’t & Politics', 1), ('Law, Gov’t & Politics>Politics', 1), ('Arts & Entertainment>Music', 1), ('Science>Geography', 1), ('Health & Fitness', 1), ('Health & Fitness>Sexuality', 1)]
+-----------------------------------------
+User 6 - 63 ads
+[('Law, Gov’t & Politics', 17), ('ERROR:Subscription', 12), ('Health & Fitness', 10), ('Science', 7), ('Health & Fitness>Psychology/Psychiatry', 6), ('Law, Gov’t & Politics>Politics', 6), ('Education', 6), ('Arts & Entertainment>Television', 5), ('Technology & Computing', 5), ('Hobbies & Interests>Photography', 3), ('Law, Gov’t & Politics>Legal Issues', 3), ('Family & Parenting>Pregnancy', 3), ('Society>Marriage', 2), ('Arts & Entertainment>Humor', 2), ('Health & Fitness>Brain Tumor', 2), ('Arts & Entertainment>Books & Literature', 2), ('Arts & Entertainment>Music', 2), ('Technology & Computing>Palmtops/PDAs', 2), ('Law, Gov’t & Politics>Immigration', 2), ('Science>Space/Astronomy', 2), ('Arts & Entertainment', 2), ('Food & Drink>Cocktails/Beer', 1), ('Society>Weddings', 1), ('Careers>College', 1), ('Food & Drink>Dining Out', 1), ('Health & Fitness>Infertility', 1), ('Style & Fashion>Clothing', 1), ('Health & Fitness>Depression', 1), ('Health & Fitness>Exercise', 1), ('Science>Biology', 1), ('Religion & Spirituality>Christianity', 1), ('News', 1), ('Science>Geology', 1), ('Family & Parenting>Babies & Toddlers', 1), ('Careers', 1), ('Technology & Computing>Email', 1), ('Arts & Entertainment>Movies', 1), ('Religion & Spirituality>Islam', 1), ('Technology & Computing>Windows', 1), ('Health & Fitness>Pediatrics', 1), ('Religion & Spirituality', 1), ('Technology & Computing>Internet Technology', 1), ('Technology & Computing>Portable', 1), ('Society', 1), ('Non-Standard Content>Pornography', 1), ('Home & Garden>Gardening', 1), ('Society>Ethnic Specific', 1), ('Style & Fashion', 1), ('Hobbies & Interests>Guitar', 1)]
+-----------------------------------------
+User 7 - 57 ads
+[('ERROR:Subscription', 9), ('Law, Gov’t & Politics>Politics', 1), ('Business>Government', 1)]
+-----------------------------------------
+User 8 - 52 ads
+[('Law, Gov’t & Politics', 17), ('Law, Gov’t & Politics>Politics', 14), ('ERROR:Subscription', 8), ('Arts & Entertainment>Television', 5), ('News', 5), ('Health & Fitness', 4), ('Science', 4), ('Technology & Computing', 4), ('Hobbies & Interests>Photography', 3), ('Science>Weather', 3), ('Law, Gov’t & Politics>Legal Issues', 2), ('News>National News', 2), ('Non-Standard Content>Hate Content', 2), ('Arts & Entertainment>Movies', 2), ('Arts & Entertainment>Humor', 2), ('Science>Geography', 2), ('Health & Fitness>Psychology/Psychiatry', 2), ('Health & Fitness>Diabetes', 2), ('Family & Parenting>Family Internet', 2), ('Society>Marriage', 2), ('Pets', 1), ('Pets>Dogs', 1), ('Real Estate', 1), ('Non-Standard Content>Under Construction', 1), ('Law, Gov’t & Politics>Commentary', 1), ('Food & Drink>Dining Out', 1), ('Travel', 1), ('Health & Fitness>Orthopedics', 1), ('Health & Fitness>Arthritis', 1), ('Sports', 1), ('Real Estate>Apartments', 1), ('Technology & Computing>Internet Technology', 1), ('Family & Parenting>Pregnancy', 1), ('Family & Parenting>Babies & Toddlers', 1), ('Society>Teens', 1), ('Health & Fitness>Cholesterol', 1), ('Health & Fitness>Pediatrics', 1), ('Technology & Computing>Shareware/Freeware', 1), ('Arts & Entertainment>Books & Literature', 1), ('Hobbies & Interests>Radio', 1), ('Travel>Japan', 1), ('Arts & Entertainment>Music', 1), ('Technology & Computing>Palmtops/PDAs', 1), ('Non-Standard Content>Pornography', 1), ('Education', 1), ('Arts & Entertainment', 1)]
+-----------------------------------------
+User 9 - 47 ads
+[('ERROR:Subscription', 9)]
+-----------------------------------------
+User 10 - 41 ads
+[('ERROR:Subscription', 8), ('Sports>Olympics', 1), ('Science', 1), ('Sports', 1), ('Health & Fitness', 1), ('Society>Marriage', 1)]
+-----------------------------------------
+User 11 - 37 ads
+[('ERROR:Subscription', 5)]
+-----------------------------------------
+User 12 - 33 ads
+[('ERROR:Subscription', 6)]
+-----------------------------------------
+User 13 - 24 ads
+[('ERROR:Subscription', 16), ('Science', 2), ('Health & Fitness', 2), ('Science>Biology', 1), ('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Exercise', 1), ('Education', 1)]
+-----------------------------------------
+User 14 - 23 ads
+[('ERROR:Subscription', 3)]
+-----------------------------------------
+User 15 - 22 ads
+[('ERROR:Subscription', 8), ('Law, Gov’t & Politics', 3), ('Law, Gov’t & Politics>Politics', 3), ('Arts & Entertainment>Books & Literature', 2), ('Non-Standard Content>Hate Content', 1), ('Food & Drink>American Cuisine', 1), ('Food & Drink>Desserts & Baking', 1), ('Health & Fitness', 1), ('Science', 1), ('Food & Drink', 1), ('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Exercise', 1), ('Arts & Entertainment>Movies', 1)]
+-----------------------------------------
+User 16 - 20 ads
+[('ERROR:Subscription', 11), ('Science', 3), ('Health & Fitness', 2), ('Food & Drink>Vegetarian', 1), ('Hobbies & Interests>Photography', 1), ('Health & Fitness>Cancer', 1), ('Law, Gov’t & Politics', 1), ('Personal Finance', 1), ('Science>Chemistry', 1), ('Travel>Mexico & Central America', 1), ('Personal Finance>Investing', 1), ('Health & Fitness>Nutrition', 1), ('Health & Fitness>Dermatology', 1), ('Science>Biology', 1), ('Food & Drink', 1), ('Arts & Entertainment', 1), ('Law, Gov’t & Politics>Politics', 1), ('Education>7-12 Education', 1), ('Health & Fitness>Psychology/Psychiatry', 1), ('Arts & Entertainment>Books & Literature', 1), ('Law, Gov’t & Politics>Legal Issues', 1)]
+-----------------------------------------
+
+Top Tier-2 categories of 'Health & Fitness' of each users:
+[('Health & Fitness>Psychology/Psychiatry', 9), ('Health & Fitness>Nutrition', 5), ('Health & Fitness>Exercise', 4), ('Health & Fitness>Diabetes', 3), ('Health & Fitness>Depression', 3), ('Health & Fitness>Cholesterol', 2), ('Health & Fitness>Panic/Anxiety Disorders', 1), ('Health & Fitness>Sexuality', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 9), ('Health & Fitness>Exercise', 6), ('Health & Fitness>Nutrition', 3), ('Health & Fitness>Panic/Anxiety Disorders', 1), ('Health & Fitness>Diabetes', 1), ('Health & Fitness>Depression', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 5), ('Health & Fitness>Sexuality', 4), ('Health & Fitness>Nutrition', 2), ('Health & Fitness>Exercise', 2), ('Health & Fitness>Heart Disease', 1), ('Health & Fitness>Arthritis', 1), ('Health & Fitness>Asthma', 1), ('Health & Fitness>Infertility', 1), ('Health & Fitness>Chronic Fatigue Syndrome', 1), ('Health & Fitness>Diabetes', 1), ("Health & Fitness>IBS/Crohn\\'s Disease", 1)]
+--------------------------------
+[('Health & Fitness>Diabetes', 1), ('Health & Fitness>Nutrition', 1)]
+--------------------------------
+[('Health & Fitness>Sexuality', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 6), ('Health & Fitness>Brain Tumor', 2), ('Health & Fitness>Infertility', 1), ('Health & Fitness>Pediatrics', 1), ('Health & Fitness>Depression', 1), ('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Diabetes', 2), ('Health & Fitness>Psychology/Psychiatry', 2), ('Health & Fitness>Arthritis', 1), ('Health & Fitness>Cholesterol', 1), ('Health & Fitness>Pediatrics', 1), ('Health & Fitness>Orthopedics', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Dermatology', 1), ('Health & Fitness>Cancer', 1), ('Health & Fitness>Nutrition', 1), ('Health & Fitness>Psychology/Psychiatry', 1)]
+--------------------------------
+[('Health & Fitness>Arthritis', 1), ('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Sexuality', 1)]
+--------------------------------
+[('Health & Fitness>Brain Tumor', 1), ('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Panic/Anxiety Disorders', 1), ('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Sexuality', 1)]
+--------------------------------
+[('Health & Fitness>Exercise', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 4), ('Health & Fitness>Nutrition', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Panic/Anxiety Disorders', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1)]
+--------------------------------
+[('Health & Fitness>Nutrition', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1)]
+--------------------------------
+[('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness>Depression', 1)]
+
+---------------------------------------------------------------------------------
+
