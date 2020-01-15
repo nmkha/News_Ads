@@ -1,0 +1,25 @@
+Categories of lookalike ads promoted by NYTimes - aggregated by user
+
+User:1 received 28 ads from NYTimes [('ERROR:Subscription', 10), ('Law, Gov't & Politics>Politics', 4), ('Health & Fitness>Psychology/Psychiatry', 4), ('Arts & Entertainment>Television', 4), ('Law, Gov't & Politics', 4), ('Education', 4), ('Health & Fitness', 4), ('ERROR:FacebookLink', 3), ('Science', 3), ('Health & Fitness>Brain Tumor', 2), ('Family & Parenting>Pregnancy', 2), ('Law, Gov't & Politics>Legal Issues', 1), ('Technology & Computing>Portable', 1), ('Science>Biology', 1), ('Technology & Computing>Internet Technology', 1), ('Careers', 1), ('Technology & Computing>Palmtops/PDAs', 1), ('Science>Space/Astronomy', 1), ('Careers>College', 1), ('Law, Gov't & Politics>Immigration', 1), ('Science>Geology', 1), ('Technology & Computing', 1), ('Health & Fitness>Depression', 1), ('Arts & Entertainment>Movies', 1)]
+
+User:2 received 7 ads from NYTimes [('ERROR:Subscription', 6), ('Health & Fitness>Arthritis', 1), ('Science', 1), ('Health & Fitness>Diabetes', 1), ('Health & Fitness>Psychology/Psychiatry', 1), ('Health & Fitness', 1)]
+
+User:3 received 9 ads from NYTimes [('ERROR:Subscription', 4), ('Food & Drink>Wine', 2), ('Food & Drink>Cocktails/Beer', 2), ('Food & Drink', 2), ('Science', 2), ('Law, Gov't & Politics', 1), ('Health & Fitness>Exercise', 1), ('Education', 1), ('Sports', 1), ('Law, Gov't & Politics>Politics', 1), ('Education>Graduate School', 1), ('Sports>Running/Jogging', 1), ('Health & Fitness', 1)]
+
+User:4 received 35 ads from NYTimes [('ERROR:Subscription', 26), ('ERROR:Empty_page', 6), ('Science', 2), ('Health & Fitness', 2), ('Health & Fitness>Nutrition', 1), ('ERROR:FacebookLink', 1), ('Family & Parenting>Pregnancy', 1), ('Science>Biology', 1), ('Health & Fitness>Exercise', 1), ('Sports>Running/Jogging', 1), ('Sports', 1)]
+
+User:5 received 15 ads from NYTimes [('ERROR:Empty_page', 13), ('ERROR:Subscription', 2)]
+
+User:6 received 55 ads from NYTimes [('ERROR:Empty_page', 45), ('ERROR:Subscription', 9), ('Law, Gov't & Politics>Politics', 1), ('Business>Government', 1)]
+
+User:7 received 26 ads from NYTimes [('ERROR:Subscription', 13), ('ERROR:FacebookLink', 9), ('Food & Drink>Desserts & Baking', 1), ('ERROR:Empty_page', 1), ('Food & Drink', 1), ('Science>Biology', 1), ('Science', 1), ('Arts & Entertainment>Music', 1), ('Science>Geography', 1)]
+
+User:8 received 41 ads from NYTimes [('ERROR:Subscription', 23), ('ERROR:FacebookLink', 15), ('Health & Fitness', 2), ('Technology & Computing>Portable', 1), ('Health & Fitness>Nutrition', 1), ('Food & Drink', 1), ('Science', 1), ('Technology & Computing', 1), ('Health & Fitness>Depression', 1), ('Technology & Computing>Palmtops/PDAs', 1), ('Food & Drink>Desserts & Baking', 1), ('Technology & Computing>Internet Technology', 1), ('Health & Fitness>Diabetes', 1), ('Health & Fitness>Psychology/Psychiatry', 1)]
+
+User:9 received 13 ads from NYTimes [('ERROR:Empty_page', 12), ('ERROR:Subscription', 1)]
+
+User:10 received 8 ads from NYTimes [('ERROR:Empty_page', 8)]
+
+User:11 received 42 ads from NYTimes [('ERROR:Subscription', 23), ('ERROR:Empty_page', 12), ('Arts & Entertainment>Television', 2), ('Science>Geography', 1), ('Law, Gov't & Politics', 1), ('Science', 1), ('Law, Gov't & Politics>Politics', 1), ('Arts & Entertainment>Music', 1), ('Health & Fitness>Sexuality', 1), ('Health & Fitness', 1)]
+
+User:12 received 21 ads from NYTimes [('ERROR:Subscription', 16), ('ERROR:Empty_page', 5)]
